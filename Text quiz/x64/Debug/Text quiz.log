@@ -1,0 +1,7 @@
+﻿  Quiz.cpp
+C:\Users\Денис Киселев\source\repos\Text quiz\Quiz.cpp(40,25): warning C4244: аргумент: преобразование "short" в "const int8_t", возможна потеря данных
+C:\Users\Денис Киселев\source\repos\Text quiz\Quiz.cpp(42,25): warning C4244: аргумент: преобразование "short" в "const int8_t", возможна потеря данных
+  Text quiz.cpp
+C:\Users\Денис Киселев\source\repos\Text quiz\Text quiz.cpp(8,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Text quiz.vcxproj -> C:\Users\Денис Киселев\source\repos\Text quiz\x64\Debug\Text quiz.exe
